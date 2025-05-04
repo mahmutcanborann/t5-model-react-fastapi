@@ -66,5 +66,5 @@ https://drive.google.com/file/d/19ScqfRWVmJ6nBxTBRalqMwiAOTWWNG30/view?usp=shari
 👨‍💻 Developer
 Mahmut Can Boran
 🖥️| AI Engineer & NLP Enthusiast
-📧 Email: mahmutcanborann@gmail.com
+📧 Email: mahmutcanboran@gmail.com
 🔗 GitHub: @mahmutcanborann
